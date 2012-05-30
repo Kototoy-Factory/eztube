@@ -1,0 +1,65 @@
+eZ Tube README
+
+What is eZ Publish?
+-------------------
+eZ Publish is a professional PHP application framework with advanced CMS
+(content management system) functionality. As a CMS it's most notable feature
+is its revolutionary, fully customizable and extendable content model. This is
+also what makes it suitable as a platform for general PHP development, allowing
+you to develop professional Internet applications fast.
+
+Standard CMS functionality, like news publishing, e-commerce and forums is
+already implemented and ready for you to use. Its stand-alone libraries can be
+used for cross-platform, database independent PHP projects.
+
+eZ Publish is database, platform and browser independent. Because it is
+browser based it can be used and updated from anywhere as long as you have
+access to the Internet.
+
+
+What is eZ Tube?
+-------------------
+eZ Tube is an extension that makes it possible to setup and configure a video portal
+in minutes, using selected content from YouTube. The extension makes it possible to 
+display YouTube videos,  user profiles, playlists, favorites, etc. on your own 
+eZ Publish website. It also allows you to upload videos to a YouTube user account. 
+Through the use of  optional filters you can control what is displayed on your 
+eZ Publish website. Content is collected through the YouTube API and cached locally.
+
+
+License
+-------
+eZ Tube is available under the terms of the eZ Business Extension License 
+Agreement (eZ BEL), Version 2.0. This license gives you the right to use the source 
+code for making your own commercial software. It allows you full protection of your 
+made with eZ Tube. You may re-brand, license and close your source code. eZ Publish 
+is not free of charge when used under the terms of the Professional License. 
+
+
+eZ Tube features
+-------------------
+- videos
+- profiles
+- playlists
+- favorites
+- uploads
+- contacts
+- comments
+- video responses
+- related videos
+- tags
+- search
+- xml and image caching
+- content filtering
+
+
+Installation
+------------
+Read doc/INSTALL
+
+
+Where to get more help
+----------------------
+Fumaggo Internet Solutions: info@fumaggo.com
+
+
